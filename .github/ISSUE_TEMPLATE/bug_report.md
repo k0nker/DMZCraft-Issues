@@ -7,6 +7,9 @@ assignees: ''
 
 ---
 
+**In-Game Name**
+Your name on DMZCraft
+
 **Describe the bug**
 A clear and concise description of what the bug is.
 
