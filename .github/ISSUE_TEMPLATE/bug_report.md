@@ -23,12 +23,12 @@ Steps to reproduce the behavior:
 **Expected behavior**
 A clear and concise description of what you expected to happen.
 
-**Screenshots**
-If applicable, add screenshots to help explain your problem.
-
 **Location (please complete the following information):**
  - World: [e.g. Survival, Legacy 113, Legacy MCNSA, etc]
  - Location [e.g. XYZ coordinates]
  
 **Additional context**
 Add any other context about the problem here.
+
+**Screenshots**
+If applicable, add screenshots to help explain your problem.
